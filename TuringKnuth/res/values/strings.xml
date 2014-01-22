@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turing Knuth</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="scientists_array">
+        <item>Ada Lovelace</item>
+        <item>Alan Turing</item>
+        <item>Grace Hopper</item>
+        <item>Charles Babbage</item>
+        <item>John von Neumann</item>
+        <item>Donald Knuth</item>
+    </string-array>
+    <string name="drawer_open">Choose To Know</string>
+    <string name="drawer_close">Choose To Know</string>
+</resources>
